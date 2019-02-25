@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Products>
+    <Product name="Lord of the Flies" price="1000" size="182" type="book"/>
+    <Product name="Thriller" price="2000" size="9" type="cd"/>
+    <Product name="Fostartály: Return of the Jani" price="100" size="50" type="cd"/>
+</Products>

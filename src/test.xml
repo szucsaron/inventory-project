@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><books>
+    <book>
+        <title>Fun Software</title>
+        <author>Jakob Jenkov</author>
+        <ISBN>0123456789</ISBN>
+    </book>
+    <book>
+        <title>Fun Software</title>
+        <author>Jakob Jenkov</author>
+        <ISBN>0123456789</ISBN>
+    </book>
+</books>
